@@ -1,12 +1,16 @@
 
-<h3 align="center">Bismihi Ta'ala</h3>
+<h3 align="center">Bismihi Ta'ala</h3><br/>
 <h1 align="">Greetings! This is M Hossain <br/>
 </h1>
 <h4>[Freelance Web Programmer]</h4>  
 <br/>
   
-I’m a full-stack developer. I have been working on this field since 2009. 
-Mainly I work on wordpress. I specialized in custom theme development from scratch, Woocommerce, existing theme customization, wordpress security, migration etc. 
+I’m a full-stack developer. I have been working on this field since 2009.<br/>
+I am learning still now.. I don't know all the things. Honestly I am not a scholar in this field. So I  work only on the things which I can and I have confidence.
+<br/>
+Mainly I work on wordpress. I specialized in custom theme development from scratch, Woocommerce, existing theme customization, wordpress security, migration etc.<br/>
+I take jobs from the clients what I can. I don't take what I can't. </br><br/>
+I work in freelancer.com and upwork.com. Starting in fiverr.com recently. <br/>
 
 <h3>My Services at a glance:</h3>
 <ul>
