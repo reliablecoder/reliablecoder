@@ -12,6 +12,12 @@ Mainly I work on wordpress. I specialized in custom theme development from scrat
 I take jobs from the clients what I can. I don't take what I can't. </br><br/>
 I work in freelancer.com and upwork.com. Starting in fiverr.com recently. <br/>
 
+##
+
+<p align="center"><strong><a href="mailto:rizvi008@gmail.com">Click Here</a> to contact me for any more details.</strong></p>
+
+##
+
 <h3>My Services at a glance:</h3>
 <ul>
 <li>Website design & development</li>
@@ -50,8 +56,10 @@ I work in freelancer.com and upwork.com. Starting in fiverr.com recently. <br/>
 </ul>  
   
 
-####
-  
+##
+<p align="center"><strong>If you are interested to know more details about my existing jobs/projects etc. Please <a href="mailto:rizvi008@gmail.com">contact me</a>. I will send you the details with project url.</strong> </p>
+
+##
 
 <br/>  
 
