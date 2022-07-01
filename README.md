@@ -1,6 +1,6 @@
 
 <h3 align="center">Bismihi Ta'ala</h3><br/>
-<h1 align="">Greetings! This is M Hossain <br/>
+<h1 align="">Greetings! This is M Hussain <br/>
 </h1>
 <h4>[Freelance Web Programmer]</h4>  
 <br/>
