@@ -20,7 +20,7 @@ I work in freelancer.com and upwork.com. Starting in fiverr.com recently. <br/>
 
 <h3>My Services at a glance:</h3>
 <ul>
-<li>Website design & development</li>
+<li>Website design & development </li>
 <li>Wordpress development</li>
 <li>E-commerce development using wordpress and woocommerce</li>
 <li>Workdrpess customization</li>
