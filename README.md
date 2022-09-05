@@ -32,7 +32,7 @@ I work in freelancer.com and upwork.com. Starting in fiverr.com recently. <br/>
 
 <h3>Some Working Experiences:</h3>
 <ul>
-<li>Classic site development </li>
+<li>Classic site development </li> 
 <li>One page site </li>
 <li>Landing pages</li>
 <li>E-commerce site development</li>
