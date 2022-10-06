@@ -10,7 +10,7 @@ I am learning still now.. I don't know all the things. Honestly I am not a schol
 <br/>
 Mainly I work on wordpress. I specialized in custom theme development from scratch, Woocommerce, existing theme customization, wordpress security, migration etc.<br/>
 I take jobs from the clients what I can. I don't take what I can't. </br><br/>
-I work in freelancer.com and upwork.com. Starting in fiverr.com recently. <br/>
+I work in freelancer.com and upwork.com. Starting in fiverr.com recently. <br/> 
 
 ##
 
