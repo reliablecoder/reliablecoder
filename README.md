@@ -5,7 +5,7 @@
 <h4>[Freelance Web Programmer]</h4>  
 <br/> 
   
-I’m a full-stack developer. I have been working on this field since 2009.<br/>
+I’m a full-stack developer. I have been working on this field since 2009.<br/> 
 I am learning still now.. I don't know all the things. Honestly I am not a scholar in this field. So I  work only on the things which I can and I have confidence.
 <br/>
 Mainly I work on wordpress. I specialized in custom theme development from scratch, Woocommerce, existing theme customization, wordpress security, migration etc.<br/>
